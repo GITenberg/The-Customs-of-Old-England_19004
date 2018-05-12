@@ -16,6 +16,8 @@ description: Cover; Front matter; Title page; Copyright page; Body matter; Prefa
   Chapter I; Chapter II; Chapter III; Chapter IV; Chapter V; Chapter VI; Chapter VII;
   Chapter VIII; Chapter IX; Chapter X; Chapter XI; Chapter XII; Chapter XIII; Chapter
   XIV; Chapter XV; Chapter XVI; Chapter XVII; Chapter XVIII; Chapter XIX.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19004#The-Customs-of-Old-England
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2006-08-07'
 gutenberg_type: Text
